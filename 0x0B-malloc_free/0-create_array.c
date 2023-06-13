@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * *create_array- #
+ * create_array- #
  * @size: #
  * @c: #
  * Return: arr

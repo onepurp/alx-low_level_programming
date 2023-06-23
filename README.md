@@ -6,3 +6,4 @@
 ## Preprocessor
 ## Structures & Typedef
 ## Function pointers
+## Variadic functions

@@ -1,7 +1,7 @@
 #include "variadic_functions.h"
 
 /**
- * print_numbers - #
+ * sum_them_all - #
  *
  * @separator: #
  *
@@ -10,7 +10,7 @@
  * Return: #
  */
 
-void print_numbers(const char *separator, const unsigned int n, ...)
+void sum_them_all(const char *separator, const unsigned int n, ...)
 {
 	va_list is;
 	unsigned int i;
